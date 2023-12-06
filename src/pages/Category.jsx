@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import Header from "../includes/Header";
+import Header from "../components/Header";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet";

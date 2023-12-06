@@ -5,7 +5,7 @@ import Category from "./pages/Category";
 import Signup from "./pages/Signup";
 import NotFound from "./pages/NotFound";
 import Login from "./pages/Login";
-
+import Store from "./context/Store";
 
 
 function App() {
